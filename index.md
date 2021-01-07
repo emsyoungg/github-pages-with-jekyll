@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about my computer science and programming journey.
+I'm glad you are here. I plan to talk about ...
